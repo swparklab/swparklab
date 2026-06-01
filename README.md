@@ -61,6 +61,7 @@ Supporting strategy and technology development in Physical AI, Robotics, Human-A
 **Co-Founder & Advisor | Autonomous Intelligence Platform**
 
 Supporting investment research, market intelligence, public sentiment analysis, strategic forecasting, and AI agent automation.
+
 ---
 
 ## 🔭 Current Interests
