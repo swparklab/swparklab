@@ -8,7 +8,7 @@ Building the future where **AI, creativity, robotics, and business** converge.
 
 ## 🚀 About Me
 
-- 🏢 Co-Founder & VP at AIMZ Media
+- 🏢 Co-Founder & VP at AIMZ Media(GenAI Content Engineering Company)
 - 🤖 Advisor at DeepAgent (Physical AI Company)
 - 🧠 Building AI-powered content production systems
 - 📊 Former Data Analyst & Business Strategy Intern
