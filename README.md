@@ -1,44 +1,48 @@
 # Hi there 👋 I'm Park Seong-Woo
 
-### AI Futurist · Generative AI Engineer · Data Strategist
+### AI Futurist · FUTURE AI Engineer
 
-Building the future where **AI, creativity, robotics, and business** converge.
+Building the future where **Artificial Intelligence, Human Creativity, Physical Intelligence, and Autonomous Systems** converge.
 
 ---
 
 ## 🚀 About Me
 
-- 🏢 Co-Founder & VP at AIMZ Media(GenAI Content Engineering Company)
-- 🤖 Advisor at DeepAgent (Physical AI Company)
-- 🧠 Building AI-powered content production systems
-- 📊 Former Data Analyst & Business Strategy Intern
-- 🏛️ Working on XR & Digital Heritage Projects
-- 🔬 Interested in AI Agents, Physical AI, LLMs, XR, and Technology Commercialization
-- 🌏 Exploring the future of Human-AI Collaboration
+- 🏢 Co-Founder & VP at AIMZ Media (GenAI Content Engineering Company)
+- 🤖 Advisor at at DPAX.AI (Physical AI & Robotics Company)
+- 📊 Founder & CEO at DeepAgent (Autonomous Intelligence Platform)
+- 🧠 Building AI-powered systems across content, intelligence, and physical worlds
+- 🌏 Exploring the future of Human-AI Collaboration and Autonomous Intelligence
 
 ---
 
 ## 💡 What I'm Building
 
-### AIMZ Labs
-Natural Language-Based AI Workflow Automation Platform
+### [AIMZMEDIA] GenAI Content Engineering Workflow Automation Platform 
 
-- AI Video Generation
-- Image Enhancement & Restoration
-- Inpainting & Object Removal
-- Upscaling & Remastering
-- Agent-Based Content Production
+- Generative AI Animation Production Platform for Original IP Content(main)
+- Multi-Image 2D/3D Data Stitching and Automated Spatial Content Generation Technology Powered by 3D Gaussian Splatting (3DGS), NeRF, and Generative AI(research)
+- Image Enhancement & Restoration & Inpainting & Object Removal
+- Upscaling & Remastering & Agent-Based Content Production
 - Node-Based AI Workflow Systems
 
-### Physical AI & Robotics
+### [DPAX.AI] Physical AI & Robotics(Exoskeleton Data Platform)
 
-- AI Agent Systems
-- Human-AI Interaction
-- Physical AI Applications
-- XR + Robotics Integration
-- Motion Capture Systems
-- AI-driven Automation Infrastructure
+- Exoskeleton Hardware Systems
+- Human Motion Data Acquisition
+- Robot Integration & Control
+- XR-based Data Collection
+- Physical AI Training Infrastructure
+- AI-driven Automation Platform
 
+### [DeepAgent] AI-driven Decision Intelligence Platform
+- Multi-Agent Intelligence
+- Investment Analytics
+- Market Forecasting
+- Public Sentiment Analysis
+- Strategic Research Automation
+- Decision Intelligence Infrastructure
+  
 ---
 
 ## 📈 Experience
@@ -48,30 +52,29 @@ Natural Language-Based AI Workflow Automation Platform
 
 Leading AI-powered content production and immersive technology projects.
 
-### DeepAgent
+### DPAX.AI
 **Advisor | Physical AI Company**
 
-Supporting strategy and technology direction in Physical AI, Robotics, and AI Agents.
+Supporting strategy and technology development in Physical AI, Robotics, Human-AI Interaction, and Autonomous Systems.
 
+### DeepAgent
+**Co-Founder & Advisor | Autonomous Intelligence Platform**
+
+Supporting investment research, market intelligence, public sentiment analysis, strategic forecasting, and AI agent automation.
 ---
 
 ## 🔭 Current Interests
 
-- Physical AI
-- AI Agents
-- Generative AI
-- Multimodal Systems
-- Human-AI Collaboration
-- XR & Immersive Computing
-- Robotics & Automation
-
+- The Future of Intelligence, Autonomous Agents & Machine Civilization
+- Human–AI Symbiosis, Physical Intelligence & Embodied Systems
+- Technological Singularity, XR Realities & Next-Generation Societies
 ---
 
 ## 🌎 Vision
 
-> The next generation of innovation will emerge where AI, robotics, media, and human creativity intersect.
+> The future will be shaped by the convergence of human intelligence, artificial intelligence, and autonomous systems.
 
-My mission is to build intelligent systems that transform how people create, work, communicate, and interact with both digital and physical worlds.
+My mission is to help build a world where humans and intelligent machines collaborate to expand knowledge, accelerate innovation, and unlock new possibilities across physical, digital, and societal domains.
 
 ---
 
