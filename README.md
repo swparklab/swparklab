@@ -35,13 +35,13 @@ Building the future where **Artificial Intelligence, Human Creativity, Physical 
 - Physical AI Training Infrastructure
 - AI-driven Automation Platform
 
-### [DeepAgent] AI-driven Decision Intelligence Platform
+### [DeepAgent] Autonomous Intelligence & Foresight Platform
+- Futures & Foresight Research
 - Multi-Agent Intelligence
-- Investment Analytics
-- Market Forecasting
-- Public Sentiment Analysis
-- Strategic Research Automation
-- Decision Intelligence Infrastructure
+- Financial & Investment Research
+- Autonomous Research Infrastructure
+- Strategic Scenario Modeling
+- Technology Foresight
   
 ---
 
