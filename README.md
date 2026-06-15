@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Park Seong-Woo
 
-### AI Futurist · FUTURE AI Engineer
+### AI Futurist · FUTURE AI Engineer · AI Orchestration Director
 
 Building the future where **Artificial Intelligence, Human Creativity, Physical Intelligence, and Autonomous Systems** converge.
 
